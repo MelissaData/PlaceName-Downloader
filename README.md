@@ -2,7 +2,7 @@
 
 This is the script that downloads Melissa Place Name for you to use.
 
-For the latest Melissa Place Name release notes, please visit: 
+To view the latest Melissa Place Name release notes or to subscribe to product notifications, please visit: 
 - https://releasenotes.melissa.com/reference-data/zip-info-place-name/ 
 
 ## Tested Environments
