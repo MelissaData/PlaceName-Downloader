@@ -8,7 +8,7 @@ To view the latest Melissa Place Name release notes or to subscribe to product n
 ## Tested Environments
 - Windows 11 64-bit, .NET Runtimes 8.0, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit, .NET 8.0
-- Melissa Place Name for 2026-01
+- Melissa Place Name for 2026-02
 
 ## Getting started
 
